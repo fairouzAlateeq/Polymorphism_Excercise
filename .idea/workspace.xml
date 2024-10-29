@@ -4,11 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ddcad7a-9efb-43a7-bf2f-a542f04492b1" name="Changes" comment="" />
+    <list default="true" id="5ddcad7a-9efb-43a7-bf2f-a542f04492b1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../workbook-2/LoopExercises/src/main/java/com/ps/Dice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../workbook-2/LoopExercises/src/main/java/com/ps/DoWhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../workbook-2/LoopExercises/src/main/java/com/ps/ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../workbook-2/LoopExercises/src/main/java/com/ps/WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../workbook-2/SimpleClass/src/main/java/com/ps/CellPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../workbook-2/WeekOne_review/src/main/java/com/ps/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ps/House.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ps/House.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ps/Properties.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ps/Properties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ps/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ps/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WorkshopOne_FinancialCalculator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WorkshopOne_FinancialCalculator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WorkshopOne_FinancialCalculator/src/main/java/com/ps/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WorkshopOne_FinancialCalculator/src/main/java/com/ps/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
@@ -22,6 +45,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
