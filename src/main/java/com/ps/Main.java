@@ -15,14 +15,16 @@ public class Main {
         for(Assets asset : assets)
             if(asset instanceof House) {
                 House house = (House) asset;
-                System.out.println("Description: " + house.getDescription() + " " +
-                        "Date Acquired: " + house.getDateAcquired() + " " + "Original Price: "
-                        + house.getOriginalCost() + " " + "Current price: " + house.getValue());
+                System.out.println("Houses: ");
+                System.out.println("Description: " + house.getDescription() + ". " +
+                        "Date Acquired: " + house.getDateAcquired() + ". " + "Original Price: "
+                        + house.getOriginalCost() + ". " + "Current price: " + house.getValue());
             } else if (asset instanceof Vehicle) {
                 Vehicle vehicle = (Vehicle) asset;
+                System.out.println("Vehicles: ");
                 System.out.println("Description: " + vehicle.getDescription()
-                + " " + "Date Accquired: " + vehicle.getDateAcquired()+ " "
-                + " Original cost: " + vehicle.getOriginalCost() + " "
+                + ". " + "Date Accquired: " + vehicle.getDateAcquired()+ ". "
+                + " Original cost: " + vehicle.getOriginalCost() + ". "
                 +" Current price: " + vehicle.getValue());
             }
             }
