@@ -46,7 +46,10 @@ public class Vehicle extends Assets {
             res *= .08;
         else res -= 1000;
 
-        if (getOdometer()>=100000 && !makeModel.contains("Honda") && !makeModel.contains("Toyota"))
+        boolean makeModelContainsHonda = makeModel.toLowerCase().contains("honda");
+        boolean makeModelContainsToyota = makeModel.toLowerCase().contains("toyota");
+
+        if (getOdometer()>=100000 && !makeModelContainsHonda && !makeModelContainsToyota)
             res *=.25;
 
 

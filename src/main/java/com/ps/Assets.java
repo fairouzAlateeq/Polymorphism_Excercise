@@ -1,6 +1,7 @@
 package com.ps;
 
 public class Assets {
+
     private String description;
     private String dateAcquired;
     private double originalCost;
